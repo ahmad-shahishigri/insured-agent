@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
+
+# System files
+.ack
+
+# Python compiled files
+*.pyc
